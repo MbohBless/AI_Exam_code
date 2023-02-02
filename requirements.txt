@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+nltk
+
+'training data will can be downloaded fron this url https://www.kaggle.com/c/word2vec-nlp-tutorial/data, extract and extract the train.csv file to the same directory as the python file,
+a folder can then be created in the same directory called data and then the training data can be placed in the data folder
+'
